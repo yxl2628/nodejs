@@ -1,0 +1,11 @@
+{
+  "name": "md5-dsc",
+  "version": "1.0.0",
+  "description": "用与签名加密算法,用户和服务器做加密交互",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yang.xiaolong",
+  "license": "ISC"
+}
