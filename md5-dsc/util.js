@@ -1,9 +1,9 @@
 var md5 = require('md5');
 var CryptoJS  = require('crypto-js');
 var Base64 = require('base-64');
-var DES_POSITIVE_KEY = "DFB3.0123";
-var KEY_GEN_ROLES = "2,0,1,3,0,7,0,5";
-var url = 'http://115.28.223.139:8088';
+var DES_POSITIVE_KEY = "TEST3.0123";
+var KEY_GEN_ROLES = "1,9,8,7,1,0,1,6";
+var url = 'http://127.0.0.1:8088';
 var param = 'interface_version=3.5.2&app_key=zzzzzzzzzzzzzzzzz&base_info=motorola_MotoXPro_shamu_retcn_shamu_t-5.0.2-89860315760103122719_355464060278735-301-false&app_version=3.5.2&access_token=&time_token=1477985419202&user_latlon=39.996091,116.48154';
 var time_token = '1477985419202';
 
