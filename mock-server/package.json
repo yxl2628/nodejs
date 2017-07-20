@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "mock-server 用来前端独立后端开发",
+  "main": "mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "xiaolong.yang",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.11.2",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
